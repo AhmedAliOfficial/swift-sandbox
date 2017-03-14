@@ -43,8 +43,8 @@ You will notice that this particular package has a new button near the
 
 <img
   alt="Try in Sandbox"
-  width="200"
-  src="static/try-in-sandbox.png"
+  width="250"
+  src="static/package-menu-try-selected.png"
 />
 
 When a Swift package in the Swift Package Catalog has this button it means the
@@ -54,7 +54,7 @@ select one of the registered samples that appear:
 
 <img
   alt="Choose Swift sample"
-  width="200"
+  width="400"
   src="static/choose-sample.png"
 />
 
