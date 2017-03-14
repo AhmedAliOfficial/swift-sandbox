@@ -7,12 +7,12 @@ Swift development with ease.
 
 <img
   alt="IBM Swift Package Catalog"
-  width="400"
+  height="300"
   src="static/swift-package-catalog.png"
 />
 <img
   alt="IBM Swift Sandbox"
-  width="400"
+  height="250"
   src="static/swift-sandbox.png"
 />
 
@@ -43,7 +43,7 @@ always come back later.
 In this section you will become familiar with the main features of the IBM Swift
 Package Catalog, and how they can augment your Swift development experience.
 
-#### Search for packages
+### Search for packages
 
 Please navigate to [Swift Package Catalog](https://packagecatalog.com) in a
 browser.
@@ -65,11 +65,11 @@ you are looking for:
 
 
 
-#### Submit a package
+### Submit a package
 
 TODO
 
-#### View package dependents
+### View package dependents
 
 TODO
 
@@ -79,7 +79,7 @@ In this section we build on the Swift Package Catalog experience and discover
 the IBM Swift Sandbox environment where you can try out Swift server samples,
 or craft entirely new snippets of Swift code rapidly, in a safe environment.
 
-#### Try out a sample
+### Try out a sample
 
 Back in your Swift Package Catalog browser tab either navigate to the
 IBM-Swift/SwiftyJSON package, or just click here
@@ -107,17 +107,17 @@ select one of the registered samples that appear:
 
  TODO: Steps for executing the sample as is.
 
-#### Create a snippet
+### Create a snippet
 
 TODO: Steps for making a simple yet noticeable change to the sample.
 
-#### Share your snippet
+### Share your snippet
 
 TODO: Steps for sharing the modified sample.
 
 ## Section 3: Exercises
 
-#### Login or sign up
+### Login or sign up
 
 If you would like to keep a list of your favorite Swift packages,
 or subscribe to notifications for particular packages, go ahead and
@@ -126,11 +126,11 @@ subscriptions when you click the heart next to a package for example.
 
 TODO: Add screen shots.
 
-#### Favorite a package
+### Favorite a package
 
 TODO: Steps for adding a package to a user's favorites.
 
-#### Author a snippet
+### Author a snippet
 
 TODO: Steps for authoring a snippet
 
