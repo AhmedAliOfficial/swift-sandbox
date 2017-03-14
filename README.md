@@ -94,10 +94,10 @@ Then simply submit the url associated with the package's GitHub repository.
   src="static/package-submit-input.png"
 />
 
-> Note: It can take a few moments while before our backend processes your
-> submission. If you don't see the package appear in the catalog within an hour,
-> something likely didn't work. Check that the url you submitted is accurate,
-> and the repository is public.
+> Note: It can take a few moments before our backend processes your submission.
+> If you don't see the package appear in the catalog within an hour, something
+> likely didn't work. Check that the url you submitted is accurate, and the
+> repository is public.
 
 ### View package dependents
 
