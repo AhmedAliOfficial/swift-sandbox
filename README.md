@@ -10,7 +10,6 @@ Swift development with ease.
   width="400"
   src="static/swift-package-catalog.png"
 />
-
 <img
   alt="IBM Swift Sandbox"
   width="400"
