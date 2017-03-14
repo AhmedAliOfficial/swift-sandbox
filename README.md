@@ -191,10 +191,44 @@ instead of `Jack`:
 #### Checkpoint
 
 Run the modified sample (now your custom snippet) to see the changed result.
+It should now output:
+```
+Bob
+25
+```
 
 ### Share your snippet
 
-TODO: Steps for sharing the modified sample.
+Now that you have made some custom snippet on the IBM Swift Sandbox, you should
+probably share it with the world. We provide you with a link to do just that.
+
+Click the `Save Code` button on the bottom navigation bar:
+
+<img
+  alt="Save Code navbar"
+  width="400"
+  src="static/sandbox-save-code-navbar.png"
+/>
+
+Fill in the form:
+
+<img
+  alt="Save Code input"
+  width="500"
+  src="static/sandbox-save-code-input.png"
+/>
+
+After clicking `Save` you will have the option to share via link or social media:
+
+<img
+  alt="Share Code"
+  width="500"
+  src="static/sandbox-share-code.png"
+/>
+
+#### Checkpoint
+
+Send your code snippet link to a friend.
 
 ## Section 3: Exercises
 
