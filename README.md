@@ -5,6 +5,18 @@ Learn how to utilize the [IBM Swift Package Catalog](https://packagecatalog.com)
 and the [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) to accelerate your
 Swift development with ease.
 
+<img
+  alt="IBM Swift Package Catalog"
+  width="400"
+  src="static/swift-package-catalog.png"
+/>
+
+<img
+  alt="IBM Swift Sandbox"
+  width="400"
+  src="static/swift-sandbox.png"
+/>
+
 ## Outline
 
 Sections 1 and 2 take less than 5 minutes to complete!
@@ -48,8 +60,11 @@ you are looking for:
   src="static/package-search-json.png"
 />
 
-> Note: Hitting `Enter` after filling in the search bar will bring you to a
-> more comprehensive search page with more results.
+> Note: After filling in the search bar, hitting `Enter` or clicking
+> `See All Results for "json"`  will bring you to a comprehensive search page
+> with more results.
+
+
 
 #### Submit a package
 
