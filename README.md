@@ -25,8 +25,8 @@ always come back later.
 
 [Section 1: IBM Swift Package Catalog](#section-1-ibm-swift-package-catalog)
 1. [Search for packages](#search-for-packages)
-2. [Submit a package](#submit-a-package)
-3. [View package dependents](#view-package-dependents)
+2. [View package dependents](#view-package-dependents)
+3. [Submit a package](#submit-a-package)
 
 [Section 2: IBM Swift Sandbox](#section-2-ibm-swift-sandbox)
 1. [Try out a sample](#try-out-a-sample)
@@ -67,9 +67,33 @@ you are looking for:
 > with more results.
 
 #### Checkpoint
+
 Search for, navigate to, and view the READMEs for each of the following packages:
 - IBM-Swift/Kitura
 - openwhisk/openwhisk-client-swift
+
+### View package dependents
+
+Being able to easily view the Swift packages that depend on a specific Swift package
+gives some valuable insight into the community view of that package. This is
+easy to view with the IBM Swift Package Catalog.
+
+While viewing the READMEs from the previous [Checkpoint](#checkpoint-1), off to
+the right there is a panel of information about each of the packages:
+
+<img
+  alt="View package details"
+  width="300"
+  src="static/package-details.png"
+/>
+
+By arrowing down on the `Dependents` field for each, you can view the dependents.
+Likewise, if you are interested in the `Dependencies` of a given package.
+
+#### Checkpoint
+
+View the dependents for the following packages:
+- IBM-Swift/Kitura
 
 ### Submit a package
 
@@ -98,10 +122,6 @@ Then simply submit the url associated with the package's GitHub repository.
 > If you don't see the package appear in the catalog within an hour, something
 > likely didn't work. Check that the url you submitted is accurate, and the
 > repository is public.
-
-### View package dependents
-
-TODO
 
 ## Section 2: IBM Swift Sandbox
 
