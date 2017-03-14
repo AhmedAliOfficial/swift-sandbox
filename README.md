@@ -70,7 +70,6 @@ you are looking for:
 
 Search for, navigate to, and view the READMEs for each of the following packages:
 - IBM-Swift/Kitura
-- openwhisk/openwhisk-client-swift
 
 ### View package dependents
 
@@ -155,7 +154,13 @@ select one of the registered samples that appear:
   src="static/choose-sample.png"
 />
 
- TODO: Steps for executing the sample as is.
+Once you are redirected to the IBM Swift Sandbox, run the sample as is:
+
+<img
+  alt="Run sample"
+  width="500"
+  src="static/sandbox-run-sample.png"
+/>
 
 ### Create a snippet
 
