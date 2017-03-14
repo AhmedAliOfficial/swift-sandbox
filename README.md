@@ -214,7 +214,7 @@ Fill in the form:
 
 <img
   alt="Save Code input"
-  width="500"
+  width="400"
   src="static/sandbox-save-code-input.png"
 />
 
@@ -222,7 +222,7 @@ After clicking `Save` you will have the option to share via link or social media
 
 <img
   alt="Share Code"
-  width="500"
+  width="300"
   src="static/sandbox-share-code.png"
 />
 
