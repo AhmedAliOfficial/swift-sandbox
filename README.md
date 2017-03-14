@@ -45,8 +45,9 @@ Package Catalog, and how they can augment your Swift development experience.
 
 ### Search for packages
 
-Please navigate to [Swift Package Catalog](https://packagecatalog.com) in a
-browser.
+Please navigate to
+<a href="https://packagecatalog.com" target="_blank">Swift Package Catalog</a>
+in a browser.
 
 In the search bar that is on the landing page, enter a package or a category
 you are looking for:
