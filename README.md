@@ -5,25 +5,29 @@ Learn how to utilize the [Swift Package Catalog](https://packagecatalog.com)
 and the [Swift Sandbox](https://swift.sandbox.bluemix.net) to accelerate your
 Swift development with ease.
 
-This tutorial takes less than 5 minutes to complete.
-
+> This tutorial takes less than 5 minutes to complete.
 
 ## Swift Package Catalog
 
-#### Search for a swift package
+In this section you will become familiar with the main features of the IBM Swift
+Package Catalog, and how they can augment your Swift development experience.
 
-#### Submit a new swift package
+#### Search for a Swift package
 
-#### View a swift package's dependencies
+#### Submit a new Swift package
 
+#### View a Swift package's dependencies
 
 ## Swift Sandbox
 
-#### Try out a swift sample in the Sandbox
+In this section we build on the Swift Package Catalog experience and discover
+the IBM Swift Sandbox environment where you can try out package samples, or
+craft entirely new snippets of Swift code rapidly, and in a safe environment.
 
-#### Modify the swift sample
+#### Try out a Swift sample in the Sandbox
 
-#### Share your modified swift sample
+#### Modify the Swift sample
 
+#### Share your modified Swift sample
 
 ## Troubleshooting
