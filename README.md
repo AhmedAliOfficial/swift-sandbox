@@ -45,14 +45,16 @@ Package Catalog, and how they can augment your Swift development experience.
 
 ### Search for packages
 
-Please navigate to
-<a href="https://packagecatalog.com" target="_blank">Swift Package Catalog</a>
-in a browser.
+Searching for community Swift packages is one of the main value adds provided
+by the IBM Swift Package Catalog. Swift packages are mildly categorized, but
+we support fuzzy search on package names as well.
+
+Please open [Swift Package Catalog](https://packagecatalog.com) in a new tab.
 
 In the search bar that is on the landing page, enter a package or a category
 you are looking for:
 
-> Hint: If you aren't sure what you are looking for, try `json`
+> Hint: If you aren't sure what you are looking for, try `json`.
 
 <img
   alt="Search for json packages"
@@ -64,11 +66,38 @@ you are looking for:
 > `See All Results for "json"`  will bring you to a comprehensive search page
 > with more results.
 
-
+#### Checkpoint
+Search for, navigate to, and view the READMEs for each of the following packages:
+- IBM-Swift/Kitura
+- openwhisk/openwhisk-client-swift
 
 ### Submit a package
 
-TODO
+We try our best to populate our Swift package index on a regular basis as new
+packages are released, but we are only humans. If you know about Swift packages
+that you can't find while searching the IBM Swift Package Catalog then please
+help us out. Its easy, all you need is a public GitHub repo.
+
+From any page in the catalog, click the `Submit a Package` in the navigation bar.
+
+<img
+  alt="Submit a Package navbar"
+  width="400"
+  src="static/package-submit-navbar.png"
+/>
+
+Then simply submit the url associated with the package's GitHub repository.
+
+<img
+  alt="Submit a Package form"
+  width="400"
+  src="static/package-submit-input.png"
+/>
+
+> Note: It can take a few moments while before our backend processes your
+> submission. If you don't see the package appear in the catalog within an hour,
+> something likely didn't work. Check that the url you submitted is accurate,
+> and the repository is public.
 
 ### View package dependents
 
