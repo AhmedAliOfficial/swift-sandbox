@@ -12,20 +12,20 @@ Sections 1 and 2 take less than 5 minutes to complete!
 Section 3 is recommended to get the full experience, if time allows. You can
 always come back later.
 
-[Section 1: IBM Swift Package Catalog]()
-1. [Search for packages]()
-2. [Submit a package]()
-3. [View package dependents]()
+[Section 1: IBM Swift Package Catalog](#section-1-ibm-swift-package-catalog)
+1. [Search for packages](#search-for-packages)
+2. [Submit a package](#submit-a-package)
+3. [View package dependents](#view-package-dependents)
 
-[Section 2: IBM Swift Sandbox]()
-1. [Try out a sample]()
-2. [Create a snippet]()
-3. [Share your snippet]()
+[Section 2: IBM Swift Sandbox](#section-2-ibm-swift-sandbox)
+1. [Try out a sample](#try-out-a-sample)
+2. [Create a snippet](#create-a-snippet)
+3. [Share your snippet](#share-your-snippet)
 
-[Section 3: Exercises]()
-- [Login or sign up]()
-- [Favorite a package]()
-- [Author a snippet]()
+[Section 3: Exercises](#section-3-exercises)
+- [Login or sign up](#login-or-sign-up)
+- [Favorite a package](#favorite-a-package)
+- [Author a snippet](#author-a-snippet)
 
 ## Section 1: IBM Swift Package Catalog
 
