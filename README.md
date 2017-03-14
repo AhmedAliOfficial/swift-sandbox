@@ -154,7 +154,8 @@ select one of the registered samples that appear:
   src="static/choose-sample.png"
 />
 
-Once you are redirected to the IBM Swift Sandbox, run the sample as is:
+Once you are redirected to the IBM Swift Sandbox, run the sample as is
+by clicking the play button in the bottom middle of the screen:
 
 <img
   alt="Run sample"
@@ -162,9 +163,34 @@ Once you are redirected to the IBM Swift Sandbox, run the sample as is:
   src="static/sandbox-run-sample.png"
 />
 
+The result is output in the right hand side panel.
+
+#### Checkpoint
+
+Did the sample run successfully? It should have output:
+```
+Jack
+25
+```
+
 ### Create a snippet
 
-TODO: Steps for making a simple yet noticeable change to the sample.
+In the interest of time, simply change the json `name` value to be `Bob`
+instead of `Jack`:
+
+<img
+  alt="Edit sample"
+  width="400"
+  src="static/sandbox-edit-sample.png"
+/>
+
+> If you are fealing extra on point, ditch the sample and create your
+> own snippet. It just has to run within 5 seconds, and no network
+> activity. Otherwise, stick with the sample to save time.
+
+#### Checkpoint
+
+Run the modified sample (now your custom snippet) to see the changed result.
 
 ### Share your snippet
 
