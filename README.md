@@ -43,13 +43,20 @@ You will notice that this particular package has a new button near the
 
 <img
   alt="Try in Sandbox"
-  src="https://developer.ibm.com/swift/wp-content/uploads/sites/69/2016/10/Screen-Shot-2016-10-18-at-1.14.41-PM.png"
+  width="200"
+  src="static/try-in-sandbox.png"
 />
 
 When a Swift package in the Swift Package Catalog has this button it means the
 package owner has provided samples to try out the package code in the Swift
 Sandbox. Go ahead and click `Try in Sandbox` for IBM-Swift/SwiftyJSON and
-you will be redirected to Swift Sandbox.
+select one of the registered samples that appear:
+
+<img
+  alt="Choose Swift sample"
+  width="200"
+  src="static/choose-sample.png"
+/>
 
 #### Modify the Swift sample
 
