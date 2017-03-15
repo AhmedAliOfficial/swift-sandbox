@@ -47,12 +47,12 @@ Package Catalog, and how they can augment your Swift development experience.
 
 Searching for community Swift packages is one of the main value adds provided
 by the IBM Swift Package Catalog. Swift packages are mildly categorized, but
-we support fuzzy search on package names as well.
+we support fuzzy search on packages as well.
 
 Please open [Swift Package Catalog](https://packagecatalog.com) in a new tab.
 
-In the search bar that is on the landing page, enter a package or a category
-you are looking for:
+In the search bar on the landing page, enter a package or category you are
+looking for:
 
 > Hint: If you aren't sure what you are looking for, try `json`.
 
