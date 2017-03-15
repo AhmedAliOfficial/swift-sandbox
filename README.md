@@ -130,8 +130,8 @@ or craft entirely new snippets of Swift code rapidly, in a safe environment.
 
 ### Try out a sample
 
-Back in your Swift Package Catalog browser tab either navigate to the
-IBM-Swift/SwiftyJSON package, or just click here
+Back in your Swift Package Catalog browser tab, either navigate to the
+IBM-Swift/SwiftyJSON package or just click here
 [SwiftyJSON](https://packagecatalog.com/package/IBM-Swift/SwiftyJSON)
 
 You will notice that this particular package has a new button near the
