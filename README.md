@@ -91,7 +91,7 @@ Likewise, if you are interested in the `Dependencies` of a given package.
 
 #### Checkpoint
 
-View the dependents for the following packages:
+View the dependents and dependencies for the following packages:
 - IBM-Swift/Kitura
 
 ### Submit a package
