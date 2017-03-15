@@ -248,7 +248,3 @@ TODO: Steps for adding a package to a user's favorites.
 ### Author a snippet
 
 TODO: Steps for authoring a snippet
-
-## Troubleshooting
-
-TODO: Common issues and how to fix/work around them.
