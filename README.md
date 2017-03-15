@@ -184,9 +184,8 @@ instead of `Jack`:
   src="static/sandbox-edit-sample.png"
 />
 
-> If you are fealing extra on point, ditch the sample and create your
-> own snippet. It just has to run within 5 seconds, and no network
-> activity. Otherwise, stick with the sample to save time.
+> Bonus: If you are feeling brave, ditch the sample and create your own snippet.
+> It just has to run within 5 seconds, and no network activity.
 
 #### Checkpoint
 
@@ -200,7 +199,7 @@ Bob
 ### Share your snippet
 
 Now that you have made some custom snippet on the IBM Swift Sandbox, you should
-probably share it with the world. We provide you with a link to do just that.
+probably share it with the world. We make sharing your snippet, easy!
 
 Click the `Save Code` button on the bottom navigation bar:
 
