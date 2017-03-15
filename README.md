@@ -18,10 +18,7 @@ Swift development with ease.
 
 ## Outline
 
-Sections 1 and 2 take less than 5 minutes to complete!
-
-Section 3 is recommended to get the full experience, if time allows. You can
-always come back later.
+This tutorial takes less than 5 minutes to complete!
 
 [Section 1: IBM Swift Package Catalog](#section-1-ibm-swift-package-catalog)
 1. [Search for packages](#search-for-packages)
@@ -32,11 +29,6 @@ always come back later.
 1. [Try out a sample](#try-out-a-sample)
 2. [Create a snippet](#create-a-snippet)
 3. [Share your snippet](#share-your-snippet)
-
-[Section 3: Exercises](#section-3-exercises)
-- [Login or sign up](#login-or-sign-up)
-- [Favorite a package](#favorite-a-package)
-- [Author a snippet](#author-a-snippet)
 
 ## Section 1: IBM Swift Package Catalog
 
@@ -228,22 +220,3 @@ After clicking `Save` you will have the option to share via link or social media
 #### Checkpoint
 
 Send your code snippet link to a friend.
-
-## Section 3: Exercises
-
-### Login or sign up
-
-If you would like to keep a list of your favorite Swift packages,
-or subscribe to notifications for particular packages, go ahead and
-`Login/Sign Up` so that the catalog can persist your favorites and
-subscriptions when you click the heart next to a package for example.
-
-TODO: Add screen shots.
-
-### Favorite a package
-
-TODO: Steps for adding a package to a user's favorites.
-
-### Author a snippet
-
-TODO: Steps for authoring a snippet
